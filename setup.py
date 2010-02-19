@@ -58,7 +58,6 @@ setup(name = 'zojax.textindexng',
                           'zope.i18n',
                           'zope.i18nmessageid',
                           'zope.security',
-                          'z3c.autoinclude',
 
                           'zojax.product',
                           'textindexng',
